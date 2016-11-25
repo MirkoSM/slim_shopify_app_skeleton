@@ -1,0 +1,1 @@
+# slim_shopify_app_skeleton
